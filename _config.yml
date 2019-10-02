@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "CertifiedCodeChef"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "CertifiedCodeChef's blog."
   location         : "Somewhere"
   email            : "certifiedcodechef@gmail.com"
   links:
