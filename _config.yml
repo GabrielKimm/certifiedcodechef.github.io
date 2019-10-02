@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Joyful Makers"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "CertifiedCodeChef"
+name                     : "Joyful Makers"
 description              : "CertifiedCodeChef's blog."
 url                      : "https://codechef.github.io"
 baseurl                  : ""
