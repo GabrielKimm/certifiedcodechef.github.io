@@ -20,7 +20,7 @@ title                    : "Joyful Coder"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joyful Coder"
-description              : "CertifiedCodeChef's blog."
+description              : "민수의 기술 블로그"
 url                      : "https://codechef.github.io"
 baseurl                  : ""
 repository               : "https://github.com/certifiedcodechef"
