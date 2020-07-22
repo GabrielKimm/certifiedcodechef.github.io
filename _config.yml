@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Joyful Coder"
   avatar           : "/assets/images/logo.jpeg"
-  bio              : "CertifiedCodeChef's blog."
-  location         : "Somewhere"
+  bio              : "민수의 기술 블로그"
+  location         : "South Korea"
   email            : "certifiedcodechef@gmail.com"
   links:
     - label: "Email"
